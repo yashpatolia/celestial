@@ -1,0 +1,9 @@
+discord.py
+pymongo
+python-dotenv
+discord
+aiohttp
+NBT
+pyjarowinkler
+asyncio
+dnspython
